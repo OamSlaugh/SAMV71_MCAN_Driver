@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Noah/MPLABXProjects/SAMV71_MCAN_Driver.X/main.c</file>
+            <file>file:/C:/Users/Noah/MPLABXProjects/SAMV71_MCAN_Driver.X/mcan_driver.c</file>
+            <file>file:/C:/Users/Noah/MPLABXProjects/SAMV71_MCAN_Driver.X/can_logic.h</file>
+            <file>file:/C:/Users/Noah/MPLABXProjects/SAMV71_MCAN_Driver.X/mcan_driver.h</file>
+            <file>file:/C:/Users/Noah/MPLABXProjects/SAMV71_MCAN_Driver.X/nbproject/Makefile-default.mk</file>
+            <file>file:/C:/Users/Noah/MPLABXProjects/SAMV71_MCAN_Driver.X/can_logic.c</file>
+            <file>file:/C:/Users/Noah/MPLABXProjects/SAMV71_MCAN_Driver.X/can_scheduler.c</file>
+            <file>file:/C:/Users/Noah/MPLABXProjects/SAMV71_MCAN_Driver.X/startup_samv71q21b.c</file>
+            <file>file:/C:/Users/Noah/MPLABXProjects/SAMV71_MCAN_Driver.X/can_scheduler.h</file>
+            <file>file:/C:/Users/Noah/MPLABXProjects/SAMV71_MCAN_Driver.X/f350_hscan_messages.h</file>
+            <file>file:/C:/Users/Noah/MPLABXProjects/SAMV71_MCAN_Driver.X/samv71q21b_flash.ld</file>
+        </group>
+    </open-files>
+</project-private>
